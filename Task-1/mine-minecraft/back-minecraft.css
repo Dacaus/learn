@@ -1,0 +1,62 @@
+.details a{
+    text-decoration: none;
+    list-style: none;
+    padding:0 5px 
+}
+
+.details a:hover{
+    color: #34a4ff;
+    font-weight : 700;
+}
+
+.title {
+    display: flex;
+    justify-content: center;/*在这一次实践中，上面两个代码一起实现的水平居中*/
+    font-weight:bold;
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+/*minecraft UP的版块*/
+.UP{
+    background: rgba(188, 220, 226, 0.2);
+    width: 180px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+
+.mo{
+    color:#888604;
+    margin-left: 25px;
+    background: rgba(188, 220, 226, 0.5);
+}
+
+.moa{
+    margin: 0px;
+}
+
+/*链接*/
+.up  a{
+    text-decoration: none;
+    list-style: none;
+    color:rgb(21, 80, 44);
+    display:block;
+    font-weight:bold;
+}
+
+
+.up  a:hover{
+    text-decoration: none;
+    list-style: none;
+    color:#0f273a;
+    background: rgba(188, 220, 226, 0.7) ;
+}
+/*链接*/
+
+.upup{
+    padding-left: 25px;
+    margin-top: 5px;
+}
+/* 侧面空白处 */
+/*minecraft up的版块到此结束*/
